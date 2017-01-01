@@ -1,10 +1,10 @@
 # Synopis 
 This is an interactive game on my Pages site.
 
-ParticleQuest
+ParticleZooQuest
 ============
 
-[ParticleQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making particle physics fun. The goal of this project is to create a science based story modifying BrowserQuest. In order to do so, we are extending the engine, implementing new mechanics and including new graphics.
+[ParticleZooQuest](http://particlequest.com/) is a HTML5/JavaScript multiplayer game experiment for making particle physics fun. The goal of this project is to create a science based story modifying BrowserQuest. In order to do so, we are extending the engine, implementing new mechanics and including new graphics.
 
 ### Why we do ParticleQuest
 ParticleQuest is a project managed by students in their free time and they do it for...
@@ -54,13 +54,13 @@ The BrowserQuest server should start, showing output like this:
 
     $ node server/js/main.js
     This server can be customized by creating a configuration file named: ./server/config_local.json
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO Starting BrowserQuest game server...
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO world1 created (capacity: 200 players).
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO world2 created (capacity: 200 players).
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO world3 created (capacity: 200 players).
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO world4 created (capacity: 200 players).
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO world5 created (capacity: 200 players).
-    [Thu Sep 13 2012 17:16:27 GMT-0400 (EDT)] INFO Server (everything) is listening on port 8000
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO Starting BrowserQuest game server...
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO world1 created (capacity: 200 players).
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO world2 created (capacity: 200 players).
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO world3 created (capacity: 200 players).
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO world4 created (capacity: 200 players).
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO world5 created (capacity: 200 players).
+    [Tues Sep 13 2016 17:16:27 GMT-0400 (EDT)] INFO Server (everything) is listening on port 8000
 
 That means its working.  There should not be any warnings or errors.
 
