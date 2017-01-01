@@ -1,4 +1,4 @@
-# Particle-Zoo-Quest
+# Synopis 
 This is an interactive game on my Pages site.
 
 ParticleQuest
